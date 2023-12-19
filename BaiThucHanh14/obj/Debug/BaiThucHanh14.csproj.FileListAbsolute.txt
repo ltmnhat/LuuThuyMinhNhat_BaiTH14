@@ -1,0 +1,11 @@
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\bin\Debug\BaiThucHanh14.exe.config
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\bin\Debug\BaiThucHanh14.exe
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\bin\Debug\BaiThucHanh14.pdb
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.Form1.resources
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.exe
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.pdb
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.Form2.resources
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_Buoi14\BaiThucHanh14\BaiThucHanh14\obj\Debug\BaiThucHanh14.Form3.resources
